@@ -1,0 +1,6 @@
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe.config
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.csprojResolveAssemblyReference.cache
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
+c:\users\dim.ka\documents\visual studio 2012\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb
